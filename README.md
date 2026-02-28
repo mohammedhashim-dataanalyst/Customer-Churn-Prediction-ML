@@ -123,8 +123,8 @@ Customer-Churn-Prediction-ML/
 ---
 
 ## 👤 Author
-Your Name
-
+**Mohammed Hashim
+**
 ---
 
 ⭐ If you found this project helpful, feel free to star the repository!
