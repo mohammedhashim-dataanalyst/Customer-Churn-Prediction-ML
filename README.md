@@ -15,13 +15,13 @@ This project predicts telecom customer churn using Logistic Regression.
 
 ## 🔍 Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](/confusion_matrix.png)
 
 ---
 
 ## 📉 ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](/roc_curve.png)
 
 ---
 
