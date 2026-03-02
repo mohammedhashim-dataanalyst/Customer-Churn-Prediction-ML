@@ -51,7 +51,7 @@ The goal is to help businesses proactively retain high-risk customers.
 ## 🔍 Confusion Matrix
 
 <p align="center">
-  <img src="/confusion_matrix.png" width="500">
+  <img src="images/confusion_matrix.png" width="500">
 </p>
 
 ---
@@ -59,7 +59,7 @@ The goal is to help businesses proactively retain high-risk customers.
 ## 📉 ROC Curve
 
 <p align="center">
-  <img src="/roc_curve.png" width="500">
+  <img src="images/roc_curve.png" width="500">
 </p>
 
 ---
